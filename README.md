@@ -13,8 +13,8 @@
 ## Passo 1: Clonar o projeto
 
 ```bash
-git clone https://github.com/seu-usuario/seu-projeto.git
-cd seu-projeto
+git clone https://github.com/ahslcdev/gestor_pedidos
+cd gestor_pedidos
 ```
 
 ## Passo 2: Instalar dependências
