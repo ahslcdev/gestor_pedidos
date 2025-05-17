@@ -6,7 +6,7 @@
         <button type="button" class="btn-close" data-dismiss="modal" aria-label="Fechar"></button>
       </div>
       <div class="modal-body">
-        <form id="enderecoForm">
+        <form id="enderecoForm" method="post">
           <div class="row g-3">
             <div class="col-md-6">
               <div class="form-floating">
