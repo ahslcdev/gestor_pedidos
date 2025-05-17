@@ -4,8 +4,7 @@
 
 - PHP >= 8.0
 - Composer
-- MySQL (ou outro banco compatível)
-- Node.js e npm (para frontend, se usar)
+- MySQL
 - Git
 
 ---
